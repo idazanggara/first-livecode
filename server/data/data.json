@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Ayam Goreng Tepung",
+    "price": 10000,
+    "ingredients": "Ayam, tepung terigu, mentega,",
+    "tag": "ayam",
+    "UserId": "1",
+    "createdAt":"29 November 2020",
+    "updatedAt": "29 November 2020"
+  },
+  {
+    "title": "Ikan Asin Blitar",
+    "price": 20000,
+    "ingredients": "Ikan Asin, tepung, minya goreng, orang blitar",
+    "tag": "ikan",
+    "UserId": "1",
+    "createdAt":"29 November 2020",
+    "updatedAt": "29 November 2020"
+  },
+  {
+    "title": "Bebek bakar Madura",
+    "price": 15000,
+    "ingredients": "bebek, areng, orang madura",
+    "tag": "other",
+    "UserId": "2",
+    "createdAt":"29 November 2020",
+    "updatedAt": "29 November 2020"
+  },
+  {
+    "title": "Ayam Lada Lele",
+    "price": 20000,
+    "ingredients": "ayam, lada hitam, lidi pede untuk kumisnya",
+    "tag": "ayam",
+    "UserId": "2",
+    "createdAt":"29 November 2020",
+    "updatedAt": "29 November 2020"
+  }
+]
