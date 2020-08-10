@@ -1,6 +1,5 @@
 
-
-function errorHandler (err) {
+function errorHandler (err, req,req,next) {
 
 }
 
